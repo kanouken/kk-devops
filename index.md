@@ -1,10 +1,12 @@
 ## Welcome to KK Devops
 
-You can use the [editor on GitHub](https://github.com/kanouken/kk-devops/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+kk devops 是集项目管理、研发管理、应用部署、机器运维、效率指标等于一体的自动化平台，整体基于Kubernetes打造
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## 第三方开源集成项目
+1.源码管理工具 gogs gitlab 私有化部署
+2.项目管理工具 teambition 
+3.持续集成     Jenkins pipeline
+4.镜像仓库     harbor
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
